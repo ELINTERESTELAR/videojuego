@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+button{
+    margin: .2rem;
+    border-radius: 5px;
+    margin: 10px 2px 2px 2px ;
+}
+
+.ema{
+    font-size: 3rem;
+}
+.pass{
+    font-size: 3rem;
+}
+.log{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 3rem;
+    
+}
+.crear{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 3rem;
+    
+}
+.salir{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 3rem;
+    
+}
+.google{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,211,215,1) 0%, rgba(246,246,246,1) 0%);
+    font-size: 3rem;   
+}
+.facebook{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,110,199,1) 0%, rgba(71,174,227,1) 100%, rgba(139,238,255,1) 100%);
+    font-size: 3rem;
+}
+.twitter{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,110,199,1) 0%, rgba(71,174,227,1) 100%, rgba(139,238,255,1) 100%);
+    font-size: 3rem;
+}
+
+.mostrarmapa{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    font-size: 3rem;
+}
+
+.quitarmapa{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    font-size: 3rem;
+}
+
+
+.formulario{
+    display: none;
+}
+
+label{
+    font-size: 1.5rem;
+}
+
+
+.inises{
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    display: grid;
+    place-content: center;
+}
+
+body{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+button{
+    margin: .2rem;
+    border-radius: 5px;
+    margin: 10px 2px 2px 2px ;
+}
+
+.ema{
+    font-size: 2rem;
+}
+.pass{
+    font-size: 2rem;
+}
+.log{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 2rem;
+    
+}
+.crear{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 2rem;
+    
+}
+.salir{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(195,206,248,1) 50%, rgba(65,107,142,1) 100%);
+    font-size: 2rem;
+    
+}
+.google{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,211,215,1) 0%, rgba(246,246,246,1) 0%);
+    font-size: 2rem;   
+}
+.facebook{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,110,199,1) 0%, rgba(71,174,227,1) 100%, rgba(139,238,255,1) 100%);
+    font-size: 2rem;
+}
+.twitter{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,110,199,1) 0%, rgba(71,174,227,1) 100%, rgba(139,238,255,1) 100%);
+    font-size: 2rem;
+}
+
+.mostrarmapa{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    font-size: 2rem;
+}
+
+.quitarmapa{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    font-size: 2rem;
+}
+
+
+.formulario{
+    display: none;
+}
+
+label{
+    font-size: 1.5rem;
+}
+
+
+.inises{
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+}
+
+
+.juego2{
+    display: none;
+}
